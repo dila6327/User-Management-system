@@ -1,0 +1,9 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+body {
+  background: linear-gradient(to right, rgb(248, 145, 145), rgb(165, 231, 165));
+}
